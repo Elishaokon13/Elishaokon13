@@ -42,8 +42,8 @@ Linux                    6 hrs 1 min         ███████████�
 
 🏆 **Github Trophy**
   
-<a href="https://mrepol742.github.io">
-<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=mrepol742&theme=gruvbox">
+<a href="https://Elishaokon13.github.io">
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Elishaokon13&theme=gruvbox">
 </a>
 </p>
 
@@ -54,8 +54,8 @@ Linux                    6 hrs 1 min         ███████████�
 <details>
   <summary>Github Stats</summary>
   <br>
-  <a href="https://mrepol742.github.io">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrepol742&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true">
+  <a href="https://Elishaokon13.github.io">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Elishaokon13&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true">
 </a>  
   
 </details> 
@@ -63,22 +63,22 @@ Linux                    6 hrs 1 min         ███████████�
   <details>
   <summary>Github Stats with Private Contributions</summary>
   <br>
- <a href="https://mrepol742.github.io">
-<img alt="Github Stats with Private Contributions" src="https://mrepol742.github.io/github-stats/generated/overview.svg">
+ <a href="https://Elishaokon13.github.io">
+<img alt="Github Stats with Private Contributions" src="https://Elishaokon13.github.io/github-stats/generated/overview.svg">
 </a>
 </details>
   
 <details>
   <summary>Most Used Languages</summary>
   <br>
- <a href="https://mrepol742.github.io">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&layout=compact&include_all_commits=true&&count_private=true&langs_count=20&theme=gruvbox">
+ <a href="https://Elishaokon13.github.io">
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elishaokon13&layout=compact&include_all_commits=true&&count_private=true&langs_count=20&theme=gruvbox">
 </a>
 </details>
 <details>
   <summary>Streak Stats</summary>
   <br>
-<a href="https://TrexCruz.github.io">
+<a href="https://Elishaokon13.github.io">
 <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://mrepol742-streak-stats.herokuapp.com/?user=mrepol742&theme=gruvbox">
 </a>
 </p>
@@ -86,7 +86,7 @@ Linux                    6 hrs 1 min         ███████████�
 <details>
   <summary>Spotify</summary>
   <br>
-<a href="https://TrexCruz.github.io">
+<a href="https://Elishaokon13.github.io">
 <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=7xx9e7hwq1qyown0m4ut78pcz&count=10&unique=true">
 </a>
 </p>
@@ -95,7 +95,7 @@ Linux                    6 hrs 1 min         ███████████�
 
 📜 **Contributions**
   
-<a href="https://TrexCruz.github.io">
+<a href="https://Elishaokon13.github.io">
 <img alt="'Contributions' Please refresh the page if the graph didnt show up" src="https://Elishaokon13-activity-graph.herokuapp.com/graph?username=Elishaokon13&theme=github&hide_border=true">
 </a>
 </p>
