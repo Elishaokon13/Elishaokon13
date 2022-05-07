@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+###### Elisha Okon  is a Passionate and Solution-driven Web || Blockchain Developer who adapts to contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused web design/development , web logics/functionalities, and Blockchain development using HTML, CSS, JavaScript, AJAX, PHP, MYSQL, RESTAPI, Laravel, Solidity, Truffle, Hardhat, Web3JS, Mocha, ChaiJS, and EthersJS. Built products for web and mobile app users in 5 years, meeting the highest standards for web design, development, logic, funtionality, database , best practices, and speed. Designed and developed multiple APIs, third-party integrations, smart contracts, and databases. Elisha is Motivated to learn, grow, and excel in the IT field
 <!--
 **Elishaokon13/Elishaokon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
