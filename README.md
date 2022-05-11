@@ -1,4 +1,4 @@
-## EliElisha Okon @Elishaokon13
+## Elisha Okon @Elishaokon13
 I am Passionate, Solution-driven Web and Blockchain Developer who adapts to contributing to highly collaborative work environment, finding solutions and determining customer satisfaction.
 
 Proven experience developing consumer-focused web design/development , web logics/functionalities, and Blockchain development using HTML, CSS, JavaScript, AJAX, PHP, MYSQL, RESTAPI, Laravel, Solidity, Truffle, Hardhat, Web3JS, Mocha, ChaiJS, and EthersJS. Built products for web and mobile app users in 5 years, meeting the highest standards for web design, development, logic, funtionality, database , best practices, and speed. 
@@ -34,7 +34,7 @@ Designed and developed multiple APIs, third-party integrations, smart contracts,
 
 
 
-📜 **Contributions**
+## 📜 Contributions
   
 <a href="https://Elishaokon13.github.io">
 <img alt="'Contributions' Please refresh the page if the graph didnt show up" src="https://mrepol742-activity-graph.herokuapp.com/graph?username=Elishaokon13&theme=github&hide_border=true">
