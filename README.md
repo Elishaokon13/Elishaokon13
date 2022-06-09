@@ -1,6 +1,6 @@
 ##### . 👋 Hi, I’m Elisha David
 ##### . 👀 I’m a 18 year-old software Developer
-##### . 👀 Lover of Open Source contribution and Space Advocacy
+##### . 👀 Lover of Open Source contribution
 ##### . 🌱 I’m currently into block chain, with the use of Meta mask, Web3, and solidity
 ##### . 📫 I'm currently working on BloCoinex as a side Booster
 ##### . 💞️ I’m looking to collaborate on any project using NodeJS, Typescript, React, and block chain
