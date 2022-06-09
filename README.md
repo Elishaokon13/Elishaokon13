@@ -37,6 +37,6 @@ Designed and developed multiple APIs, third-party integrations, smart contracts,
 ## 📜 Contributions
   
 <a href="https://Elishaokon13.github.io">
-<img alt="'Contributions' Please refresh the page if the graph didnt show up" src="https://mrepol742-activity-graph.herokuapp.com/graph?username=Elishaokon13&theme=github&hide_border=true">
+<img alt="'Contributions' Please refresh the page if the graph didnt show up" src="https://activity-graph.herokuapp.com/graph?username=Elishaokon13&theme=dracula">
 </a>
 </p>
