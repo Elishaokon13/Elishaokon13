@@ -18,13 +18,13 @@
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Elishaokon13&count_private=true&theme=tokyonight&showicons=true">
 </a>  
   
- **Most Used Languages**
+## Most Used Languages
   
  <a href="https://Elishaokon13.github.io">
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elishaokon13&langs_count=5&theme=tokyonight">
 </a>
 
-**Streak Stats**
+## Streak Stats
 
 <a href="https://Elishaokon13.github.io">
 <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Elishaokon13&theme=dark">
