@@ -15,7 +15,7 @@
 **Github Stats**
   
   <a href="https://Elishaokon13.github.io">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Elishaokon13&count_private=true&theme=tokyonight&showicons=true">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Elishaokon13&show_icons=true" />
 </a>  
   
 ## Most Used Languages
