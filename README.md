@@ -1,8 +1,8 @@
 ##### . 👋 Hi, I’m Elisha David
-##### . 👀 I’m a 19 year-old software Developer
+##### . 👀 I’m a 19 year-old Blockchain Developer and technical writer
 ##### . 👀 Lover of Open Source contribution
-##### . 🌱 I’m currently into block chain, with the use of Meta mask, Web3, and solidity
-##### . 📫 I'm currently working on BloCoinex as a side Booster
+##### . 🌱 I’m currently into blockchain development, building with NextJS, Typescript, TailwindCSS, Solidity and ReactJS 
+##### . 📫 I'm currently working on an NFT Aggregator for all EVM Chain
 ##### . 💞️ I’m looking to collaborate on any project using NodeJS, Typescript, React, and block chain
 ## 🏆 Github Trophy
   
