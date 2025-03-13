@@ -35,4 +35,5 @@
 ---
 
 ## 📜 Contributions
-[[![Elisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elishaokon13&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-activity-graph.vercel.app/graph?username=Elishaokon13)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elishaokon13&theme=dracula)](https://github.com/Elishaokon13)
+
