@@ -35,4 +35,4 @@
 ---
 
 ## 📜 Contributions
-<img alt="'Contributions' Please refresh the page if the graph didn’t show up" src="https://activity-graph.herokuapp.com/graph?username=Elishaokon13&theme=dracula">
+[[![Elisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elishaokon13&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-activity-graph.vercel.app/graph?username=Elishaokon13)
