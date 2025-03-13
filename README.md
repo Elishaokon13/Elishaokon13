@@ -28,9 +28,7 @@
 </a>
 
 ### Streak Stats
-<a href="https://Elishaokon13.github.io">
-<img alt="'Streak Stats' Please refresh the page if the stats didn’t show up" src="https://github-readme-streak-stats.herokuapp.com/?user=Elishaokon13&theme=dark">
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Elishaokon13)](https://git.io/streak-stats)
 
 ---
 
