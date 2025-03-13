@@ -25,9 +25,7 @@
 </a>
 
 ### Most Used Languages
-<a href="https://Elishaokon13.github.io">
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elishaokon13&langs_count=5&theme=tokyonight">
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elishaokon13&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/Elishaokon13)
 
 ### Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Elishaokon13)](https://git.io/streak-stats)
