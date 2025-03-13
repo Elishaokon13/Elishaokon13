@@ -20,7 +20,9 @@
 </a>
 
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elishaokon13&theme=dark)](https://git.io/streak-stats)
+<a href="https://Elishaokon13.github.io">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Elishaokon13&show_icons=true" />
+</a>
 
 ### Most Used Languages
 <a href="https://Elishaokon13.github.io">
