@@ -11,18 +11,15 @@
 
 ---
 
+
+
 ## 📊 More Stats
+   ![Trophies](https://github-profile-trophy.vercel.app/?username=Elishaokon13&theme=nord_dark)
+
 ![](https://komarev.com/ghpvc/?username=Elishaokon13&color=green) <br />
 
 ### GitHub Trophy
-<a href="https://Elishaokon13.github.io">
-<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Elishaokon13&theme=gruvbox">
-</a>
-
-### GitHub Stats
-<a href="https://Elishaokon13.github.io">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Elishaokon13&show_icons=true" />
-</a>
+   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elishaokon13&theme=default)
 
 ### Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elishaokon13&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/Elishaokon13)
