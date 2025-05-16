@@ -13,12 +13,12 @@
 
 
 
-## 📊 More Stats
+ ### GitHub Trophy
    ![Trophies](https://github-profile-trophy.vercel.app/?username=Elishaokon13&theme=nord_dark)
 
 ![](https://komarev.com/ghpvc/?username=Elishaokon13&color=green) <br />
 
-### GitHub Trophy
+## 📊 More Stats
    ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elishaokon13&theme=default)
 
 ### Most Used Languages
